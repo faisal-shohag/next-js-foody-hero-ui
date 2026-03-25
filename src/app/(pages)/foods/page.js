@@ -29,12 +29,13 @@ const FoodsPage = async ({ searchParams }) => {
         <CategoryFilter />
       </div>
       {sp.search && (
-        <div className="">
+        <div className="mt-5">
           Found <span className="font-bold text-red-500">{foods.length}</span>{" "}
-          result with the term{" "}
-          <span className="font-bold italic text-red-500">{sp.search}</span>
+          result with the term <span className="font-bold italic text-red-500">{sp.search}</span>
         </div>
       )}
+
+
 
       {foods.length ? (
         <div className="grid grid-cols-4 mt-10 gap-5">
