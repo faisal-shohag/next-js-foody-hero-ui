@@ -1,0 +1,359 @@
+{
+  "recipes": [
+    {
+      "title": "Spaghetti Carbonara",
+      "image": "https://example.com/images/spaghetti_carbonara.jpg",
+      "cuisine": "Italian",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta or bacon",
+        "2 large eggs",
+        "50g grated Parmesan cheese",
+        "2 cloves garlic",
+        "Salt to taste",
+        "Black pepper to taste"
+      ],
+      "nutritional_info": [
+        "Calories: 520 kcal",
+        "Protein: 22g",
+        "Carbohydrates: 55g",
+        "Fat: 24g",
+        "Fiber: 3g"
+      ],
+      "cooking_instructions": [
+        "Boil water in a large pot, add salt, and cook spaghetti until al dente.",
+        "In a pan, cook pancetta until crispy.",
+        "Whisk eggs and Parmesan cheese together in a bowl.",
+        "Drain spaghetti and reserve some pasta water.",
+        "Combine hot pasta with pancetta and remove from heat.",
+        "Quickly mix in egg and cheese mixture while stirring continuously.",
+        "Add a little pasta water if needed to create a creamy sauce.",
+        "Season with salt and black pepper before serving."
+      ],
+      "tags": [
+        "pasta",
+        "quick meal",
+        "classic",
+        "dinner"
+      ]
+    },
+    {
+      "title": "Chicken Stir-Fry",
+      "image": "https://example.com/images/chicken_stir_fry.jpg",
+      "cuisine": "Asian",
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "ingredients": [
+        "400g chicken breast, sliced",
+        "2 cups mixed vegetables (broccoli, bell peppers, carrots)",
+        "3 tbsp soy sauce",
+        "2 tbsp oyster sauce",
+        "1 tbsp sesame oil",
+        "2 cloves garlic, minced",
+        "1 tsp ginger, grated",
+        "Cooked rice for serving"
+      ],
+      "nutritional_info": [
+        "Calories: 380 kcal",
+        "Protein: 35g",
+        "Carbohydrates: 25g",
+        "Fat: 12g",
+        "Fiber: 5g"
+      ],
+      "cooking_instructions": [
+        "Heat sesame oil in a wok over high heat.",
+        "Add garlic and ginger, stir for 30 seconds.",
+        "Add chicken slices and cook until browned.",
+        "Add vegetables and stir-fry for 4-5 minutes.",
+        "Pour in soy sauce and oyster sauce, toss to coat.",
+        "Serve hot over cooked rice."
+      ],
+      "tags": [
+        "quick",
+        "healthy",
+        "stir-fry",
+        "weeknight"
+      ]
+    },
+    {
+      "title": "Beef Tacos",
+      "image": "https://example.com/images/beef_tacos.jpg",
+      "cuisine": "Mexican",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        "500g ground beef",
+        "1 packet taco seasoning",
+        "8 taco shells or tortillas",
+        "1 cup shredded lettuce",
+        "1 cup diced tomatoes",
+        "1/2 cup shredded cheese",
+        "Sour cream and salsa for topping"
+      ],
+      "nutritional_info": [
+        "Calories: 450 kcal (per 2 tacos)",
+        "Protein: 28g",
+        "Carbohydrates: 30g",
+        "Fat: 22g",
+        "Fiber: 4g"
+      ],
+      "cooking_instructions": [
+        "Brown ground beef in a skillet over medium heat, drain excess fat.",
+        "Add taco seasoning and 1/4 cup water, simmer 5 minutes.",
+        "Warm taco shells.",
+        "Assemble with beef, lettuce, tomatoes, cheese, and toppings."
+      ],
+      "tags": [
+        "mexican",
+        "family-friendly",
+        "quick",
+        "tacos"
+      ]
+    },
+    {
+      "title": "One-Pan Lemon Garlic Chicken",
+      "image": "https://example.com/images/lemon_garlic_chicken.jpg",
+      "cuisine": "Mediterranean",
+      "prep_time": "10 minutes",
+      "cook_time": "25 minutes",
+      "ingredients": [
+        "4 chicken thighs",
+        "4 potatoes, quartered",
+        "3 tbsp olive oil",
+        "Juice of 1 lemon",
+        "4 cloves garlic, minced",
+        "1 tsp dried oregano",
+        "Salt and pepper"
+      ],
+      "nutritional_info": [
+        "Calories: 520 kcal",
+        "Protein: 32g",
+        "Carbohydrates: 38g",
+        "Fat: 26g",
+        "Fiber: 5g"
+      ],
+      "cooking_instructions": [
+        "Preheat oven to 200°C.",
+        "Toss chicken and potatoes with oil, lemon juice, garlic, oregano, salt, and pepper.",
+        "Arrange on a baking sheet in a single layer.",
+        "Bake 25-30 minutes until chicken is cooked and potatoes are golden."
+      ],
+      "tags": [
+        "one-pan",
+        "easy",
+        "healthy",
+        "sheet-pan"
+      ]
+    },
+    {
+      "title": "Vegetable Fried Rice",
+      "image": "https://example.com/images/vegetable_fried_rice.jpg",
+      "cuisine": "Chinese",
+      "prep_time": "10 minutes",
+      "cook_time": "10 minutes",
+      "ingredients": [
+        "3 cups cooked rice (day-old best)",
+        "2 cups mixed frozen vegetables",
+        "2 eggs, beaten",
+        "3 tbsp soy sauce",
+        "2 tbsp oil",
+        "2 green onions, sliced",
+        "1 tsp sesame oil"
+      ],
+      "nutritional_info": [
+        "Calories: 320 kcal",
+        "Protein: 10g",
+        "Carbohydrates: 48g",
+        "Fat: 10g",
+        "Fiber: 4g"
+      ],
+      "cooking_instructions": [
+        "Heat oil in a large pan or wok.",
+        "Scramble eggs and set aside.",
+        "Add vegetables and stir-fry 3 minutes.",
+        "Add rice, soy sauce, and scrambled eggs; stir-fry 4-5 minutes.",
+        "Drizzle with sesame oil and top with green onions."
+      ],
+      "tags": [
+        "vegetarian",
+        "quick",
+        "leftover-rice",
+        "asian"
+      ]
+    },
+    {
+      "title": "Creamy Tuscan Salmon",
+      "image": "https://example.com/images/tuscan_salmon.jpg",
+      "cuisine": "Italian",
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        "4 salmon fillets",
+        "1 cup heavy cream",
+        "1/2 cup sun-dried tomatoes",
+        "2 cups spinach",
+        "3 cloves garlic, minced",
+        "1/2 cup Parmesan",
+        "Salt and pepper"
+      ],
+      "nutritional_info": [
+        "Calories: 580 kcal",
+        "Protein: 38g",
+        "Carbohydrates: 8g",
+        "Fat: 44g",
+        "Fiber: 2g"
+      ],
+      "cooking_instructions": [
+        "Season and sear salmon in a pan until cooked; remove.",
+        "In same pan, sauté garlic, add cream and Parmesan.",
+        "Add sun-dried tomatoes and spinach; simmer until thickened.",
+        "Return salmon to pan and coat with sauce."
+      ],
+      "tags": [
+        "seafood",
+        "creamy",
+        "date-night",
+        "low-carb"
+      ]
+    },
+    {
+      "title": "Classic Beef Chili",
+      "image": "https://example.com/images/beef_chili.jpg",
+      "cuisine": "American",
+      "prep_time": "15 minutes",
+      "cook_time": "30 minutes",
+      "ingredients": [
+        "500g ground beef",
+        "1 onion, diced",
+        "2 cans kidney beans",
+        "1 can diced tomatoes",
+        "2 tbsp chili powder",
+        "1 tsp cumin",
+        "Salt and pepper"
+      ],
+      "nutritional_info": [
+        "Calories: 420 kcal",
+        "Protein: 30g",
+        "Carbohydrates: 35g",
+        "Fat: 18g",
+        "Fiber: 12g"
+      ],
+      "cooking_instructions": [
+        "Brown beef and onion in a pot.",
+        "Add spices, tomatoes, and beans.",
+        "Simmer 20-30 minutes.",
+        "Serve with toppings like cheese or sour cream."
+      ],
+      "tags": [
+        "comfort-food",
+        "one-pot",
+        "hearty",
+        "winter"
+      ]
+    },
+    {
+      "title": "Garlic Butter Shrimp",
+      "image": "https://example.com/images/garlic_butter_shrimp.jpg",
+      "cuisine": "Seafood",
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "ingredients": [
+        "500g shrimp, peeled",
+        "4 tbsp butter",
+        "4 cloves garlic, minced",
+        "1 tbsp lemon juice",
+        "1 tsp paprika",
+        "Fresh parsley"
+      ],
+      "nutritional_info": [
+        "Calories: 320 kcal",
+        "Protein: 35g",
+        "Carbohydrates: 3g",
+        "Fat: 18g",
+        "Fiber: 0g"
+      ],
+      "cooking_instructions": [
+        "Melt butter in a pan, add garlic and cook 1 minute.",
+        "Add shrimp and paprika; cook 3-4 minutes until pink.",
+        "Squeeze lemon juice and sprinkle parsley."
+      ],
+      "tags": [
+        "quick",
+        "low-carb",
+        "appetizer-or-main",
+        "seafood"
+      ]
+    },
+    {
+      "title": "Margherita Pizza (Homemade)",
+      "image": "https://example.com/images/margherita_pizza.jpg",
+      "cuisine": "Italian",
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "ingredients": [
+        "Pizza dough (store-bought or homemade)",
+        "200g tomato sauce",
+        "200g fresh mozzarella",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Salt"
+      ],
+      "nutritional_info": [
+        "Calories: 480 kcal (per half pizza)",
+        "Protein: 20g",
+        "Carbohydrates: 55g",
+        "Fat: 18g",
+        "Fiber: 3g"
+      ],
+      "cooking_instructions": [
+        "Preheat oven to 250°C with pizza stone if possible.",
+        "Spread sauce on dough, add torn mozzarella.",
+        "Bake 10-15 minutes until crust is golden.",
+        "Top with fresh basil and olive oil."
+      ],
+      "tags": [
+        "pizza",
+        "classic",
+        "vegetarian"
+      ]
+    },
+    {
+      "title": "Creamy Chicken Alfredo",
+      "image": "https://example.com/images/chicken_alfredo.jpg",
+      "cuisine": "Italian-American",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "ingredients": [
+        "300g fettuccine",
+        "400g chicken breast, sliced",
+        "2 cups heavy cream",
+        "1 cup Parmesan",
+        "3 cloves garlic",
+        "Butter",
+        "Salt and pepper"
+      ],
+      "nutritional_info": [
+        "Calories: 680 kcal",
+        "Protein: 38g",
+        "Carbohydrates: 58g",
+        "Fat: 36g",
+        "Fiber: 3g"
+      ],
+      "cooking_instructions": [
+        "Cook pasta al dente.",
+        "Sauté chicken in butter until golden; remove.",
+        "Add garlic, cream, and Parmesan; simmer until thick.",
+        "Toss in pasta and chicken."
+      ],
+      "tags": [
+        "pasta",
+        "creamy",
+        "comfort"
+      ]
+    }
+
+   
+  ]
+}
