@@ -32,7 +32,7 @@ const FoodsPage = async ({ searchParams }) => {
         <div className="">
           Found <span className="font-bold text-red-500">{foods.length}</span>{" "}
           result with the term{" "}
-          <span className="font-bold italic text-red-500">{p.dish_name}</span>
+          <span className="font-bold italic text-red-500">{sp.search}</span>
         </div>
       )}
 
